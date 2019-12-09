@@ -1,0 +1,2 @@
+# projekt
+Cvičení z programování
